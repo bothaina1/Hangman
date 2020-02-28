@@ -1,0 +1,12 @@
+dog
+cat
+lion
+red
+blue
+yellow
+skirt
+sky
+hand
+head
+ant
+
